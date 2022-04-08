@@ -1,3 +1,3 @@
 let test = 1;
-test = 'zzm';
+test = 'zzm1';
 let b = 'one';
