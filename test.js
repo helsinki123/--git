@@ -1,3 +1,3 @@
 let test = 1;
 test = 2;
-let b = 3;
+let b = 4;
